@@ -10,3 +10,4 @@ Git, GitHub, command line, version control.
 A big big thank you to [Andy Mueller](https://github.com/amueller), who originally taught this class at NYU and taught me all I know about Git and GitHub! These slides are heavily influenced by his previous class materials, [found here](https://github.com/amueller/git_workshop).
 
 ### Testing!
+Adding new text here to push to local directory
